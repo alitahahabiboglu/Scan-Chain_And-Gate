@@ -2,6 +2,7 @@
 Exercise documents
 
 //OR-Gate_Scan-Chain
+
 `timescale 1ns / 1ps
 
 // OR Gate Module
